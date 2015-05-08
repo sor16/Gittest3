@@ -1,3 +1,4 @@
 normal <- function(x) {
-    rnorm(x)
+    t=rnorm(x)
+    t
 }
