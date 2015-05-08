@@ -1,3 +1,3 @@
 hakk <- function(string){
-    paste(string, "hakk", sep=".")
+    paste(string, "hakk", sep=" ")
 }
