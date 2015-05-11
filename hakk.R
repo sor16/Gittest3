@@ -1,3 +1,3 @@
 hakk <- function(string){
-    return(paste(string, "hakk", sep=" "))
+    return(paste(string, "rennslislykill", sep=" "))
 }
